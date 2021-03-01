@@ -177,3 +177,5 @@ if ( typeof window !== 'undefined' ) {
 	}
 
 }
+
+console.warn("This is a custom build of THREE.js edited by Pookage");
